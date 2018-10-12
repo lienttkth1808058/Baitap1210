@@ -1,0 +1,3 @@
+C:/Users/sony/CLionProjects/baitap1210_ok/cmake-build-debug/CMakeFiles/baitap1210_ok.dir
+C:/Users/sony/CLionProjects/baitap1210_ok/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sony/CLionProjects/baitap1210_ok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
